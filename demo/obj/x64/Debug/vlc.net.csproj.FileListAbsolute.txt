@@ -1,0 +1,8 @@
+D:\DSBU Project\vlc-demo\vlc-demo\demo\bin\x64\Debug\vlc.net.exe
+D:\DSBU Project\vlc-demo\vlc-demo\demo\bin\x64\Debug\vlc.net.pdb
+D:\DSBU Project\vlc-demo\vlc-demo\demo\obj\x64\Debug\vlc.net.csprojResolveAssemblyReference.cache
+D:\DSBU Project\vlc-demo\vlc-demo\demo\obj\x64\Debug\vlc.net.Form1.resources
+D:\DSBU Project\vlc-demo\vlc-demo\demo\obj\x64\Debug\vlc.net.Properties.Resources.resources
+D:\DSBU Project\vlc-demo\vlc-demo\demo\obj\x64\Debug\vlc.net.csproj.GenerateResource.Cache
+D:\DSBU Project\vlc-demo\vlc-demo\demo\obj\x64\Debug\vlc.net.exe
+D:\DSBU Project\vlc-demo\vlc-demo\demo\obj\x64\Debug\vlc.net.pdb
